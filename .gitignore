@@ -1,0 +1,9 @@
+LICENSE
+lodepng.cpp
+lodepng.h
+lodepng_fuzzer.cpp
+lodepng_util.cpp
+lodepng_util.h
+README.md
+.idea
+cmake-build-debug
